@@ -32,7 +32,7 @@ while continuer_partie:
         try:
             mise = int(mise)
         except ValueError:
-            print("Vous n'avez pas saisi de nombre")
+            print("Vous n'avez pas saisi  de nombre")
             mise = -1
             continue
 
